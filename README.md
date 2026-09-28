@@ -22,6 +22,13 @@
 > spotDL: The fastest, easiest and most accurate command-line music downloader.
 </div>
 
+> **Maintained fork (2026):** This is a community-maintained fork of the original
+> [spotDL](https://github.com/spotDL/spotify-downloader) by the **spotDL Team** —
+> all credit for the original project stays with them (badges, license and
+> contributors above are theirs). This fork only applies fixes needed to keep
+> spotDL working in 2026, e.g. the YouTube Music search locale fallback
+> (`en` → `de`) in `spotdl/providers/audio/ytmusic.py`.
+
 ______________________________________________________________________
 **[Read the documentation on ReadTheDocs!](https://spotdl.readthedocs.io)**
 ______________________________________________________________________
